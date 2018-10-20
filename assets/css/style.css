@@ -1,0 +1,18 @@
+ul.pagination {
+	margin: 24px;
+}
+
+ul.pagination strong {
+	padding: 7px 14px;
+	margin: 3px;
+	background: #303030;
+}
+
+a.pagination-links {
+	padding: 7px 14px;
+	margin: 3px;
+	background: #404040;
+}
+form.cat-delete {
+	display: inline;
+}

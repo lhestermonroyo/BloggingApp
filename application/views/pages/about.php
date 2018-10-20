@@ -1,0 +1,2 @@
+<h2><?=$title;?></h2>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta alias veritatis aspernatur eius ratione, maxime beatae voluptatibus, voluptates doloremque vel sunt illum dolore unde? Praesentium est nihil quas incidunt odio natus dolores debitis placeat sapiente provident. Sed eveniet sapiente earum.</p>
